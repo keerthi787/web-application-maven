@@ -21,7 +21,7 @@
 		<spring.version>5.1.2.RELEASE</spring.version>
 		<junit.version>4.11</junit.version>
 		<log4j.version>1.2.17</log4j.version>
-		<sonar.host.url>http://15.223.226.235:9000/</sonar.host.url>
+		<sonar.host.url>http://15.156.75.174:9000/</sonar.host.url>
 		<sonar.login>squ_59fd5f0a1d735468e4b6d2434504e19d5d76a527</sonar.login>
 
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Release-icicibank Nexus Repository</name>
-	      <url>http://15.156.58.54:8081/repository/Release-icicbank/</url>
+	      <url>http://3.99.207.32:8081/repository/Release-icicbank/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Snapshot-icicbank Nexus Repository </name>
-	      <url>http://15.156.58.54:8081/repository/Snapshot-icicbank/</url>
+	      <url>http://3.99.207.32:8081/repository/Snapshot-icicbank/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
